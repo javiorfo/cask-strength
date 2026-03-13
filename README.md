@@ -1,2 +1,2 @@
-# casks
-Go database/sql adapter with type safety and generics
+# casks-strength
+*Go database/sql adapter with type safety and generics*
